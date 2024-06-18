@@ -81,3 +81,8 @@ body{
         pointer-events: all;
     }
 }
+img{
+    font-size: 1.2em;
+    padding: 5px;
+    background: -webkit-linear-gradient(-45deg, #ffce51, #ff7253, #fd5754);
+}
